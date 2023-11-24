@@ -1,0 +1,17 @@
+#cont{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    justify-content: space-evenly;
+    align-content: space-between;
+}
+#card
+{
+    background-color:rgb(242, 252, 189);
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    padding-top: 50px;
+    font-weight: bold;
+    text-align: center;
+}
